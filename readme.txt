@@ -1,6 +1,6 @@
 Domain Whois and Social Data
 
-Display whois and social network data of a Domain name
+WordPress widget that display whois and social network data of a Domain name
 
 == Installation ==
 
